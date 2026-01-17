@@ -1,6 +1,6 @@
 # YaDig: Review and Share your favourite Albums
 
-YaDig is a social application that allows users to connect through music taste
+## YaDig is a social application that allows users to connect through music taste
 
 <img width="1903" height="1037" alt="Screenshot From 2026-01-17 21-39-09" src="https://github.com/user-attachments/assets/a9efd7ab-b606-4bd1-bd65-3ffbaa8aa73d" />
 <img width="1903" height="1037" alt="Screenshot From 2026-01-17 21-39-02" src="https://github.com/user-attachments/assets/f7c44eb7-c882-4d12-9625-ad96c68de7f6" />
