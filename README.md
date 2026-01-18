@@ -26,7 +26,7 @@ $ npm start
 1. create a .env file:
 ```
 NEXT_PUBLIC_API_URL=http://localhost:3030
-NEXT_PUBLIC_LASTFM_API_KEY=78f1f6e5eaaf7d27216635ecedaaadc6
+NEXT_PUBLIC_LASTFM_API_KEY={key}
 ```
 2. run 
 ```
